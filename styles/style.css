@@ -73,4 +73,54 @@
     font-weight: bold;
     margin: 30px;
     padding: 30px;
+    color: white;
+}
+
+.service-all{
+    background-color:rgb(70, 70, 70);
+    padding: 30px;
+}
+
+.service-container{
+    margin: 25px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    width: 230px;
+    height: 250px;
+    box-shadow: 4px 4px 15px rgb(233, 233, 233);
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.icon{
+       width: 70px;
+}
+.btn-box{
+    background-color: gray;
+    margin-top: 60px;
+}
+
+.box-title{
+    padding: 10px;
+}
+
+.box-description{
+    padding: 10px;
+}
+.main-foot{
+    padding: 70px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000;
+    color: white;
+}
+.foot-img{
+    width: 120px;
 }
